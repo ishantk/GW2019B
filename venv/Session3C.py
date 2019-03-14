@@ -6,5 +6,8 @@ while i<=10:
 
 print("Done")
 
-for i in range(1,11):
+# for i in range(1, 11): # By Default step is 1
+#     print(i)
+
+for i in range(1, 11, 1):
     print(i)
