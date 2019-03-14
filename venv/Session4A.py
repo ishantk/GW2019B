@@ -38,3 +38,24 @@ elif (average >=50 and average < 70):
     print(">> Grade C Awarded for Average of:", average)
 else:
     print(">> Fail")
+
+
+"""
+    Assignment:
+    John and Jack Assignment:
+    They Plant bricks to create a Wall
+    N = 7
+                Bricks
+    John : 1    1        
+    Jack : 2    3
+    John : 2    5
+    Jack : 4    9 -> 7
+    => Jack : 2 7
+    
+    Who Planted Last Brick(s) and how many ?
+
+    for loop
+    if/else
+
+
+"""
