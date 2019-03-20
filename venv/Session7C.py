@@ -10,3 +10,15 @@ fun()
 fun()
 
 print("x finally is: ",x) # 22
+
+# Assignment:
+# Create a Function which simulates Promo Codes as in Zomato/Amazon/Uber/OLA
+"""
+    def getFinalPriceAfterPromoCode(amount, promoCode):
+        ..
+        ..
+        ....
+        ......
+        return 
+
+"""
