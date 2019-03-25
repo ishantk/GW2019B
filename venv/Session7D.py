@@ -8,6 +8,8 @@ def showList(numbers):
 
 
 
+print("__name__ in Session7D.py is:",__name__)
+
 data = [1, 2, 3, 4, 5]
 print("HashCode of data:",hex(id(data)))
 showList(data)
