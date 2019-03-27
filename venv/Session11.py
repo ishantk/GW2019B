@@ -36,10 +36,10 @@ else:
 
 # List of Lists | Multi Value Container containing Multi Value Containers
 populationIndia = [
-                    [134655, 765251, 556613, 876554, 542752],   # 0
-                    [244655, 585251, 856613, 996554, 589752]    # 1
-                    [244655, 585251, 856613, 996554]            # 2
-                    [244655, 585251, 856613]                    # 3
+                    [134655, 765251, 556613, 876554, 542752],    # 0
+                    [244655, 585251, 856613, 996554, 589752],    # 1
+                    [244655, 585251, 856613, 996554],            # 2
+                    [244655, 585251, 856613],                    # 3
                     [244655, 585251]                            # 4
                   ]
 
@@ -49,9 +49,35 @@ print("Length of populationIndia is: ",len(populationIndia))
 print("Length of populationIndia[0] is: ",len(populationIndia[0]))
 print("Length of populationIndia[1] is: ",len(populationIndia[1]))
 
+data = []
+data.append(10)
+data.append(20)
+
+# moreData = []
+# moreData.append(data)
+
+print(data)
 
 # Find who has maximum population using loops
 # Ascending Arrangement on the basis of population count (Sorting) -> Refer Google
+
+"""
+    data = [
+                [0, 1, 0, 1, 1, 0]
+                [1, 1, 0, 1, 1, 1]
+                [0, 0, 1, 0, 0, 0]
+                [1, 1, 0, 1, 1, 0]
+                [1, 1, 1, 0, 0, 1]
+                [1, 1, 0, 1, 1, 1]
+           ]
+           
+    Create 2 diagonal lists
+    [0, 1, 1, 1, 0, 1] -> decimal value
+    [0, 1, 0, 0, 1, 1] -> decimal value
+    
+    Add decimal values -> Answer ?      
+
+"""
 
 
 
