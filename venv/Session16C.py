@@ -38,3 +38,20 @@ result = reduce(lm, population)
 print(result)
 
 # Explore  with Dictionaries !! :)
+employees = [
+                {"eid":101, "name":"john", "salary":10000},
+                {"eid":201, "name":"jennie", "salary":20000},
+                {"eid":301, "name":"jack", "salary":30000}
+            ]
+
+# Problem:
+"""
+    lambda expression
+    which gives bonus to employees
+    bonus 10%
+    -> +1
+    Implement map function with Lambda Expression to solve the problem 
+    
+"""
+
+print(employees)
