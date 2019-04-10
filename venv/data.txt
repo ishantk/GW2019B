@@ -1,0 +1,28 @@
+1 0 0 1
+1 0 0 1
+1 1 1 1
+0 0 0 1
+0 0 0 1
+0 0 0 1
+
+1 1 1 1
+0 0 0 1
+0 0 0 1
+0 0 0 1
+0 0 0 1
+0 0 0 1
+
+0 1 1 0
+1 0 0 1
+1 0 0 1
+1 0 0 1
+1 0 0 1
+0 1 1 0
+
+
+Read the file and store 3 numbers as in sequence in 3 variables
+result = n1 + (n2 * n3)
+Use minimum storage containers and minimum logical structures
+
+
+
