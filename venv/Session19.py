@@ -72,3 +72,6 @@ if save == "yes":
 
 
 # HW: Save the Object in DB
+
+
+# For Firebase : https://firebase.google.com/docs/firestore/quickstart
